@@ -10,7 +10,7 @@ For this package to be successfully built, the following dependencies are requir
 
 ## Download
 
-Download the binaries from the [latest release](https://github.ibm.com/fsilveir/go-custom-exporter/releases/latest) to your local machine and place it in your PATH and follow the instructions below for usage.
+Download the binaries from the [latest release](https://github.com/fsilveir/go-custom-exporter/releases/latest) to your local machine and place it in your PATH and follow the instructions below for usage.
 
 
 ## Usage
